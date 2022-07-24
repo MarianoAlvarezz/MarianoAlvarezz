@@ -2,11 +2,6 @@
 
 ![Mariano Alvarez](https://user-images.githubusercontent.com/106124398/180670470-c32a8565-6efe-4836-adee-7874a18bede3.gif)
 
-
-
-
-
-
 ### Hi there 👋, Mariano Alvarez
 #### I am a programming student
 I am a programming student who is starting in this world. My goal is to expand my knowledge and dedicate myself to this 100%.
