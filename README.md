@@ -1,5 +1,5 @@
 
-![Mariano Alvarez (1) (1)](https://user-images.githubusercontent.com/106124398/180670799-39e4c5ea-e571-4aa3-98ab-6a9518f7f6a4.gif)
+![Mariano Alvarez](https://user-images.githubusercontent.com/106124398/180670799-39e4c5ea-e571-4aa3-98ab-6a9518f7f6a4.gif)
 
 
 
