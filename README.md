@@ -1,8 +1,12 @@
-### Hi there 👋, my name is Mariano Alvarez
+### Hi there 👋, Mariano Alvarez
 #### I am a programming student
 I am a programming student who is starting in this world. My goal is to expand my knowledge and dedicate myself to this 100%.
 
-Skills: / HTML / CSS / JS
+Skills: / JS / HTML / CSS
+
+- 🔭 I’m currently working on small projects to learn 
+- 🌱 I’m currently learning JS and more 
 
 
-- 🌱 I’m currently learning ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mariano Alvarez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Norberto Mariano Alvarez/)  
+
