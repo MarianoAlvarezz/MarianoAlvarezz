@@ -1,6 +1,7 @@
 
+![Mariano Alvarez (1) (1)](https://user-images.githubusercontent.com/106124398/180670799-39e4c5ea-e571-4aa3-98ab-6a9518f7f6a4.gif)
 
-![Mariano Alvarez (1)](https://user-images.githubusercontent.com/106124398/180670723-32790c3f-1a60-4a77-9dcb-296f654888dd.gif)
+
 
 
 ### Hi there 👋, Mariano Alvarez
