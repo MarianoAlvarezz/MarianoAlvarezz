@@ -1,6 +1,7 @@
 
 
-![Mariano Alvarez](https://user-images.githubusercontent.com/106124398/180670470-c32a8565-6efe-4836-adee-7874a18bede3.gif)
+![Mariano Alvarez (1)](https://user-images.githubusercontent.com/106124398/180670723-32790c3f-1a60-4a77-9dcb-296f654888dd.gif)
+
 
 ### Hi there 👋, Mariano Alvarez
 #### I am a programming student
