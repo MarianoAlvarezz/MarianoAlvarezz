@@ -8,7 +8,7 @@
 #### I am a programming student
 I am a programming student who is starting in this world. My goal is to expand my knowledge and dedicate myself to this 100%.
 
-Skills: JS / HTML / CSS
+Skills: JS / REACT JS / HTML / CSS
 
 - 🔭 I’m currently working on small projects to learn 
 - 🌱 I’m currently learning JS and more 
