@@ -11,7 +11,8 @@ I am a programming student who is starting in this world. My goal is to expand m
 Skills: JS / REACT JS / HTML / CSS
 
 - 🔭 I’m currently working on small projects to learn 
-- 🌱 I’m currently learning JS and more 
+- 🌱 I am currently studying computer science at the National University of Quilmes
+- Expanding knowledge
 
 My linkedin:                                                                                                                                            
 
